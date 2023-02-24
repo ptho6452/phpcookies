@@ -11,7 +11,7 @@
     <img src="" alt="">
     <div>Kết quả:<i>Click here</i></div>
     <?php
-        echo $_COOKIE['khachhang']
+        echo $_COOKIE['khach_hang']
     ?>
     <br>
     <a href="cookies.php">Quay lại trang chủ</a>
